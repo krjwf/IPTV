@@ -1,3 +1,11 @@
+
+#EXTINF:-1 ,安徽卫视-241206
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226391/index.m3u8?playseek=20241206113000-20241206143000
+#EXTINF:-1 ,安徽卫视-241207
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226391/index.m3u8?playseek=20241207113000-20241207143000
+#EXTINF:-1 ,安徽卫视-241208
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226391/index.m3u8?playseek=20241208113000-20241208143000
+
 #EXTINF:-1,CCTV1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1,CCTV1-4M
